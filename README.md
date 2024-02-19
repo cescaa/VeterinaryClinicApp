@@ -1,3 +1,4 @@
+# Veterinary Clinic Application
 Final project for C programming course at Seneca College:
 * Implemented a data management system for a veterinary clinic
 * Organised data through custom structures, enabling viewing, searching, addition, editing, and removal of patient and appointment records
